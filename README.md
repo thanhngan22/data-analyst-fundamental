@@ -1,13 +1,13 @@
 # 🪐 Data Analyst Fundamental
 
 ## 🧩 Datathon Series
-1. Trung bình - Trung vị
-2. Phương sai - Độ lệch chuẩn
-3. Thiên lệch chọn mẫu
-4. Nghịch lý Simpson
+1. Mean - Median
+2. Variance - Standard Deviation
+3. Sample Skewness
+4. Simpson's Paradox
 5. Dashboard
 6. Scatter Diagram
-7. Issue Tree Mece
+7. Issue Tree MECE (Mutually Exclusive, Collectively Exhaustive)
 
 ___
 
